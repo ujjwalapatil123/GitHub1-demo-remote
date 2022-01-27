@@ -9,7 +9,7 @@ return x-(-y)     #on main branch
     
     #multiply implementation
 def multiply(x,y):
-    pass
+    return x*y   #on main branch local
     
     #divide implementation
 def divide(x,y):
