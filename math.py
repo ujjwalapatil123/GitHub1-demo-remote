@@ -5,6 +5,7 @@ def add(x,y):
     #substract implementation
 def substract(x,y):
     return x-y
+return x-(-y)     #on main branch
     
     #multiply implementation
 def multiply(x,y):
